@@ -49,7 +49,7 @@ The Spark section covers analytical tasks performed on the **Project Gutenberg d
 ## 📊 Dataset Information
 
 - The **Project Gutenberg dataset** (≈184 MB, multiple `.txt` files) was used.
-- The zip file of a dataset named as Dataset.Zip has been uploaded.
+- Due to its large size, the dataset is **not uploaded** to this repository.
 - Sample files such as `200.txt`, `10.txt`, and `5.txt` were used during execution.
 - The same dataset was reused for both Hadoop and Spark tasks as instructed.
 
